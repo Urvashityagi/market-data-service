@@ -8,7 +8,7 @@
 ## Clone Repository
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/Urvashityagi/market-data-service.git
 cd market-data-service
 ```
 
